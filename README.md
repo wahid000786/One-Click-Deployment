@@ -7,7 +7,9 @@ Our project aims to revolutionize deployment processes by seamlessly integrating
 # Key Features:
 
 GitHub Integration:
+
 Leveraging the power of version control, our solution connects directly to GitHub repositories, allowing teams to manage code efficiently and collaboratively.
+
 Automatic triggers are set up to initiate the deployment pipeline whenever changes are pushed to specified branches, ensuring that the latest code is always deployed.
 Jenkins Automation:
 Jenkins serves as the orchestrator of the deployment process, automating the steps from code pull to deployment.
