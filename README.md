@@ -1,4 +1,4 @@
-== # One-Click-Deployment ==
+== One-Click-Deployment ==
 TTitle: Streamlined Deployment Automation: GitHub-Jenkins-Tomcat Integration
 
 Description:
